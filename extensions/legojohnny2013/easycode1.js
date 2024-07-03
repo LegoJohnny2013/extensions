@@ -2,7 +2,11 @@
 // ID: LJ2013easycode
 // Description: Adds Lots and Lots of Blocks like Alert and Change Tab Title.
 // By: LegoJohnny2013 <https://scratch.mit.edu/users/LEGOJohnny2013/>
-// Original: TestMuffin
+// By: penguinGPT by Mupilob
+// By: Random utilites by gen1x
+// By: Sound Waves By Genix
+// By: How Many Lines? By monochromasityhml
+
 // License: MPL-2.0
 (function(Scratch) {
   'use strict';
